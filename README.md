@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 A  application with role-based access for SuperAdmin, OfficeAdmin, and Employee.
@@ -35,3 +36,6 @@ Runs on http://localhost:3000
 - OfficeAdmin: Full Employee CRUD, Reports with filters, Export Excel/CSV/PDF
 - Employee: View profile in collapsible sections, change password
 - Photo upload with drag & drop support
+=======
+# Employee-Management-System
+>>>>>>> 07d056d3df3cab082225548539ab483a84dabfc8
